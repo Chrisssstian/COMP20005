@@ -7,3 +7,8 @@
 <p>
   By: Alistair Moffat
 </p>
+<ul>
+  <li><a href="#test">test</a></li>
+</ul>
+
+<h2 id="test">test</h2>
