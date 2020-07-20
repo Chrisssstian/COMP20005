@@ -1,0 +1,7 @@
+Hello
+C a comment in the first line
+//fuck this shit
+but no Comment here
+        or here
+//swag
+yolo
