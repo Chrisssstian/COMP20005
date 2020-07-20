@@ -1,0 +1,8 @@
+Tutorial Week 3:
+Quiz 1
+a) i = 7 j = 4
+b) i = 3 j = 5 k = 9
+c) days = 31
+d) x = 1 y = 2 (brackets missing)
+e) x = 1 y = 2, x = 1 y = 4
+f)

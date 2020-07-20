@@ -1,0 +1,10 @@
+MID SEMESTER EXAMPLE THAT I WAS STUCK ON:
+
+  Q2A: says error on line 15 because the error sits on line 14 where the semi
+  colon is needed however error is on line 15 because the compiler reads lines
+  14 and 15 at the same time so line 14 doesn't exist essentially.
+
+  Q2E: Error is actually on line 8, it isn't an integer overflow error, it is
+  a simple case of not initialising
+    int n = 0;
+  on line 8. Therefore unintialized variable
