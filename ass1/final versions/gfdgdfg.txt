@@ -1,0 +1,6 @@
+line 241/363 is it too close to 80 char limit
+
+what to do in stage 4 if only one package?
+
+
+removed ------ in pop arrays function
